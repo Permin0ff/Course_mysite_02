@@ -86,7 +86,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'blog',
         'USER': 'blog',
-        'PASSWORD': '251125',
+        'PASSWORD': 'xxxxxxx',
     }
 }
 
@@ -136,7 +136,7 @@ EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
 
 # Конфигурация сервера электронной почты
 EMAIL_HOST = 'smtp.gmail.com'
-EMAIL_HOST_USER = 's0ketra@gmail.com'
-EMAIL_HOST_PASSWORD = 'cooarlmggaaldwit'
+EMAIL_HOST_USER = 'xxxxxxx@gmail.com'
+EMAIL_HOST_PASSWORD = 'xxxxxxx'
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True
